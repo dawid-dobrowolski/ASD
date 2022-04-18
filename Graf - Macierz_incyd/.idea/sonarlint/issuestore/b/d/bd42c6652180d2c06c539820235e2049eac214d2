@@ -1,0 +1,9 @@
+
+W	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(âÖéˆÿÿÿÿÿ
+p	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(Ñõ–¸ùÿÿÿÿ
+C	cpp:S5817")This function should be declared "const".(Ò®…ùÿÿÿÿ
+>	cpp:S5817(")This function should be declared "const".(¼›ŞÚ
+>	cpp:S5817-")This function should be declared "const".(ùŠÿ
+]	cpp:S5566/"CChange this raw for-loop to a range for-loop or an "std::for_each".(…´ş†øÿÿÿÿ
+U	cpp:S1238V";Pass expensive to copy object "path" by reference to const.(æÌªúùÿÿÿÿ
+b!cpp:SingleDeclarationPerStatementY"0Define each identifier in a dedicated statement.(İÓ°ãüÿÿÿÿ

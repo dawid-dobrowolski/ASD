@@ -1,0 +1,8 @@
+
+€	cpp:S5276C"dimplicit conversion loses integer precision: 'std::vector::size_type' (aka 'unsigned long') to 'int'(ÈõÙê8ÿ¬¹Žþ/
+w	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(ûš•ïÿÿÿÿÿ8‚çž‹þ/
+]	cpp:S5566!"<Change this raw for-loop to "std::all_of" or "std::none_of".(í½Éôøÿÿÿÿ8›·“þ/
+K	cpp:S5566;"*Change this raw for-loop to "std::any_of".(—ÜÊÞÿÿÿÿÿ8Ø­¹Žþ/
+d	cpp:S5566G"CChange this raw for-loop to a range for-loop or an "std::for_each".(ÜåÚîûÿÿÿÿ8Ú­¹Žþ/
+d	cpp:S5566P"CChange this raw for-loop to a range for-loop or an "std::for_each".(ÜåÚîûÿÿÿÿ8Û­¹Žþ/
+\	cpp:S1238^";Pass expensive to copy object "path" by reference to const.(æÌªúùÿÿÿÿ8Ý­¹Žþ/

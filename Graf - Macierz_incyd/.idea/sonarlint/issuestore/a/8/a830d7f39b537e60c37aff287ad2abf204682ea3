@@ -1,0 +1,4 @@
+
+C	cpp:S5827"'Replace the redundant type with "auto".(‚τσφ8Λΐεώ/
+d	cpp:S5566%"CChange this raw for-loop to a range for-loop or an "std::for_each".(½ε‹όψÿÿÿÿ8Μΐεώ/
+m	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(‚τσφ8Μΐεώ/

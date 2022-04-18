@@ -1,0 +1,5 @@
+
+w	cpp:S5018"bEnsure that the move constructor of "MyPriorityQueue" is exception-free and declare it "noexcept".(Şè‰
+„	cpp:S5018+"jEnsure that the move assignment operator of "MyPriorityQueue" is exception-free and declare it "noexcept".(¬øé‹üÿÿÿÿ
+º	cpp:S4963"¤Remove this class' destructor, copy constructor, move constructor, copy assignment operator and move assignment operator so that the class follows the rule of Zero.(×÷“÷
+D	cpp:S1709"/Add the "explicit" keyword to this constructor.(œ§ƒ‡

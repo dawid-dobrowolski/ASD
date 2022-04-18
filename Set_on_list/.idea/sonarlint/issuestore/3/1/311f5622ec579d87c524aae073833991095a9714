@@ -1,0 +1,12 @@
+
+y	cpp:S5276"dimplicit conversion loses integer precision: 'std::vector::size_type' (aka 'unsigned long') to 'int'(öğ¦
+ı	cpp:S3624
+"âExplicitly define or delete the missing copy constructor and copy assignment operator so that they will not be implicitly provided. Additionally, you may consider defining the move assignment operator and the move constructor.(ÓêáÏøÿÿÿÿ
+c	cpp:S4963
+"IRemove this class' destructor so that the class follows the rule of Zero.(ÓêáÏøÿÿÿÿ
+k	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(£¯ª©
+>	cpp:S5817")This function should be declared "const".(¼Òô†
+>	cpp:S5817")This function should be declared "const".(²§Ú»
+>	cpp:S58172")This function should be declared "const".(æ›øÀ
+B	cpp:S55663"-Replace this range for-loop by "std::any_of".(Ä¯×ü
+~cpp:S9959"eMake the type of this parameter a reference-to-const. The current type of "obj" is "class setList &".(©òúıÿÿÿÿ

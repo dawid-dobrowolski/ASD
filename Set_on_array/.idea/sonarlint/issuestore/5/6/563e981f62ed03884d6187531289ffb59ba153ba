@@ -1,0 +1,16 @@
+
+>	cpp:S5817")This function should be declared "const".(¨¿¬Ö
+u	cpp:S3230"`Do not assign data members in a constructor. Initialize member "size" in an initialization list.(õéžý
+k	cpp:S5025"QReplace the use of "new" with an operation that automatically manages the memory.(éôöëúÿÿÿÿ
+k	cpp:S3490"VUse "=default" instead of the default implementation of this special member functions.(€ü¦
+=	cpp:S5817")This function should be declared "const".(²ÔÃz
+>	cpp:S58173")This function should be declared "const".(æ›øÀ
+>	cpp:S58178")This function should be declared "const".(¼Òô†
+‚cpp:S995M"iMake the type of this parameter a reference-to-const. The current type of "object" is "class SetArray &".(Â»—ÿþÿÿÿÿ
+@cpp:S872P",Reconsider this operator for 'bool' operand.(ŠØ˜§
+}cpp:S995U"iMake the type of this parameter a reference-to-const. The current type of "object" is "class SetArray &".(©©×º
+Ecpp:S872X",Reconsider this operator for 'bool' operand.(÷õÖ¤øÿÿÿÿ
+|cpp:S995]"iMake the type of this parameter a reference-to-const. The current type of "object" is "class SetArray &".(ßæ¸-
+@cpp:S872`",Reconsider this operator for 'bool' operand.(âÆà¢
+@cpp:S872`",Reconsider this operator for 'bool' operand.(âÆà¢
+;	cpp:S1110g"!Remove these useless parentheses.(¢ðÓ‡úÿÿÿÿ

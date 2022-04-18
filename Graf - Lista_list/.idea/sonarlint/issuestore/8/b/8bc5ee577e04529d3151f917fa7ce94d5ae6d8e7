@@ -1,0 +1,4 @@
+
+m	cpp:S3539"SRemove this redundant access specifier; it does not change the accessibility level.(îĞÎúüÿÿÿÿ
+~	cpp:S3230"iDo not assign data members in a constructor. Initialize member "vertex_Index1" in an initialization list.(ùóÅ¿
+~	cpp:S3230"iDo not assign data members in a constructor. Initialize member "vertex_Index2" in an initialization list.(À’Šñ
